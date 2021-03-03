@@ -1,5 +1,5 @@
 # Hi 👋, I'm Alexey Prokofev
-### Hardworking and ambitious developer (junior frontend, junior backend) from Russia
+### Hardworking and ambitious Junior developer from Russia
 <hr>
 - 🌱 I’m currently learning Vue.js
 - 📫 How to reach me: alexxproff69@gmail.com
